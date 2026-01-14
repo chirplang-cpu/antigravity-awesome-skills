@@ -6,7 +6,9 @@
 [![Claude Code](https://img.shields.io/badge/AI-Claude%20Code-purple)](https://claude.ai)
 [![Agentic](https://img.shields.io/badge/Agentic-Framework-blue)](https://github.com/guanyang/antigravity-skills)
 
-**Antigravity Awesome Skills** is a curated, battle-tested collection of **58 high-performance skills** designed to supercharge your Claude Code agent using the Antigravity framework.
+**Antigravity Awesome Skills** is a curated, battle-tested collection of **58 high-performance skills** compatible with both **Antigravity** and **Claude Code**.
+
+Whether you are using the Google Deepmind Antigravity framework or the standard Anthropic Claude Code CLI, these skills are designed to drop right in and supercharge your agent.
 
 This repository aggregates the best capabilities from across the open-source community, transforming your AI assistant into a full-stack digital agency capable of Engineering, Design, Security, Marketing, and Autonomous Operations.
 
